@@ -1,18 +1,6 @@
 <template>
     <div>
         <home-page-header />
-
-        <info-cards style="margin-top: -3rem;"/>
-
-        <dashboard-section class="mt-5 mb-5"/>
-
-        <user-display-section style="margin-top: 8rem;"/>
-
-        <rapid-integration-section class="mt-5 mb-5"/>
-
-        <vue-docs-section class="mt-4 mb-0"/>
-
-        <home-page-footer />
     </div>
 </template>
 
